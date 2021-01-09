@@ -1,9 +1,7 @@
-# Big Game Survey 
+# Java JDBC Postgres
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/joaovictormcz/vanilla-java-with-jdbc-postgres/blob/main/LICENSE) 
 
 # Sobre o projeto
-
-https://wmazoni-sds1.netlify.app
 
 Exemplo de uma aplicação utilizando o **java sem framework (Vanilla Java)**, conectando com o banco de dados postgreSQL. Neste exemplo são utilizados maps, lists e composições de forma simples e funcional. Construída durante a 2ª edição da **Semana DevSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").   
 
