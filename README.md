@@ -6,7 +6,7 @@
 Exemplo de uma aplicação utilizando o **java sem framework (Vanilla Java)**, conectando com o banco de dados postgreSQL. Neste exemplo são utilizados maps, lists e composições de forma simples e funcional. Construída durante a 2ª edição da **Semana DevSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").   
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual](https://github.com/joaovictormcz/assets/blob/main/modelo.png)
 
 # Tecnologias utilizadas
 ## Back end
